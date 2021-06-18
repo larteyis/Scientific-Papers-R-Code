@@ -26,7 +26,7 @@ conda activate mypython3
 --high_level_db /mnt/ufs18/home-051/larteyis/SINGLE_MHAPLA/16S/Qiime2/Ref_database/SILVA_138_SSURef_NR99_tax_silva.fasta \
 --high_level_query_coverage=85 \
 --high_level_percent_identity=60 \
--c 0.8 -b -m 20 -t
+-c 0.6 -b -m 20 -t
 
 
 
